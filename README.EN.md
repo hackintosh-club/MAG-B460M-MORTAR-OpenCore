@@ -7,7 +7,7 @@
 
 ### OpenCore
 
-[OpenCore 0.9.7](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 1.0.0](https://github.com/acidanthera/OpenCorePkg)
 
 
 ### macOS
@@ -59,7 +59,7 @@ Search
 
 ### Notes
 
- - Use [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) or [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) build your SMBIOS
+ - Use [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) build your SMBIOS
 
 
 ### Tools

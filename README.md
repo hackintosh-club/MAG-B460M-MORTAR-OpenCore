@@ -7,7 +7,7 @@
 
 ### OpenCore
 
-[OpenCore 0.9.7](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 1.0.0](https://github.com/acidanthera/OpenCorePkg)
 
 
 ### macOS
@@ -62,7 +62,7 @@ Search
 
 ### 注意事项
 
- - 安装成功后必须使用 [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) 或者 [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) 生成你自己的 SMBIOS
+ - 安装成功后必须使用 [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) 生成你自己的 SMBIOS
 
 
 ### 常用工具
