@@ -1032,7 +1032,7 @@
                     <key>SystemAudioVolume</key>
                     <data>Rg==</data>
                     <key>boot-args</key>
-                    <string>agdpmod=pikera alcid=52 ipc_control_port_options=0</string>
+                    <string>agdpmod=pikera alcid=3 ipc_control_port_options=0</string>
                     <key>csr-active-config</key>
                     <data>fwoAAA==</data>
                     <key>prev-lang:kbd</key>
