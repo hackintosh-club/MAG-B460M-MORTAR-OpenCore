@@ -7,12 +7,13 @@
 
 ### OpenCore
 
-[OpenCore 1.0.0](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 1.0.2](https://github.com/acidanthera/OpenCorePkg)
 
 
 ### macOS
 
-- Sonoma
+- Sequoia  （Intel & Broadcom WiFi Need [OCLP](https://github.com/dortania/OpenCore-Legacy-Patcher/releases/tag/2.0.2) Patch）
+- Sonoma  （Broadcom WiFi Need [OCLP](https://github.com/dortania/OpenCore-Legacy-Patcher/releases/tag/2.0.2) Patch）
 - Ventura
 - Monterey
 

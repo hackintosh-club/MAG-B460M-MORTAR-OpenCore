@@ -7,12 +7,13 @@
 
 ### OpenCore
 
-[OpenCore 1.0.0](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 1.0.2](https://github.com/acidanthera/OpenCorePkg)
 
 
 ### macOS
 
-- Sonoma
+- Sequoia  （英特尔 博通 WiFi 必须使用 [OCLP](https://github.com/dortania/OpenCore-Legacy-Patcher/releases/tag/2.0.2) 补丁）
+- Sonoma  （博通 WiFi 必须使用 [OCLP](https://github.com/dortania/OpenCore-Legacy-Patcher/releases/tag/2.0.2) 补丁）
 - Ventura
 - Monterey
 
