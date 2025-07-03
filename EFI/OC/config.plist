@@ -94,6 +94,8 @@
                 <false/>
                 <key>AvoidRuntimeDefrag</key>
                 <true/>
+                <key>ClearTaskSwitchBit</key>
+                <false/>
                 <key>DevirtualiseMmio</key>
                 <true/>
                 <key>DisableSingleUser</key>
@@ -157,7 +159,7 @@
                     <key>BundlePath</key>
                     <string>Lilu.kext</string>
                     <key>Comment</key>
-                    <string>V1.6.9</string>
+                    <string>V1.7.0</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -175,7 +177,7 @@
                     <key>BundlePath</key>
                     <string>VirtualSMC.kext</string>
                     <key>Comment</key>
-                    <string>V1.3.4</string>
+                    <string>V1.3.6</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -193,7 +195,7 @@
                     <key>BundlePath</key>
                     <string>SMCProcessor.kext</string>
                     <key>Comment</key>
-                    <string>V1.3.4</string>
+                    <string>V1.3.6</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -211,7 +213,7 @@
                     <key>BundlePath</key>
                     <string>SMCSuperIO.kext</string>
                     <key>Comment</key>
-                    <string>V1.3.4</string>
+                    <string>V1.3.6</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -229,7 +231,7 @@
                     <key>BundlePath</key>
                     <string>WhateverGreen.kext</string>
                     <key>Comment</key>
-                    <string>V1.6.8</string>
+                    <string>V1.6.9</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -247,7 +249,7 @@
                     <key>BundlePath</key>
                     <string>AppleALC.kext</string>
                     <key>Comment</key>
-                    <string>V1.9.2</string>
+                    <string>V1.9.4</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -265,7 +267,7 @@
                     <key>BundlePath</key>
                     <string>LucyRTL8125Ethernet.kext</string>
                     <key>Comment</key>
-                    <string>V1.2.0</string>
+                    <string>V1.2.2</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -319,7 +321,7 @@
                     <key>BundlePath</key>
                     <string>RestrictEvents.kext</string>
                     <key>Comment</key>
-                    <string>V1.1.4</string>
+                    <string>V1.1.5</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -1067,6 +1069,7 @@
                 <array>
                     <string>boot-args</string>
                     <string>ForceDisplayRotationInEFI</string>
+                    <string>csr-active-config</string>
                 </array>
             </dict>
             <key>LegacyOverwrite</key>
@@ -1113,13 +1116,13 @@
                 <key>AdviseFeatures</key>
                 <false/>
                 <key>MLB</key>
-                <string>C02132200J9PHC11M</string>
+                <string>C02030301GUPHC11F</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
                 <integer>0</integer>
                 <key>ROM</key>
-                <data>ljsJSzCU</data>
+                <data>UNO0OdRA</data>
                 <key>SpoofVendor</key>
                 <true/>
                 <key>SystemMemoryStatus</key>
@@ -1127,9 +1130,9 @@
                 <key>SystemProductName</key>
                 <string>iMac20,1</string>
                 <key>SystemSerialNumber</key>
-                <string>C02G6XZVPN5T</string>
+                <string>C02D40YLPN5T</string>
                 <key>SystemUUID</key>
-                <string>5C7C45DD-5A98-43F1-A5C5-AD787B1B773F</string>
+                <string>EEE5BEDE-3D04-4DB8-9929-6823D59F6B98</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>

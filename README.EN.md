@@ -7,7 +7,7 @@
 
 ### OpenCore
 
-[OpenCore 1.0.2](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 1.0.4](https://github.com/acidanthera/OpenCorePkg)
 
 
 ### macOS
@@ -46,6 +46,10 @@ Settings
 Search
   |-- D.T.M
     |-- D.T.M: Enabled
+    
+Search
+  |-- RE
+    |-- Re-Size BAR Support: Disabled    
 ```
 
 <img src="Screenshot/Search.png" alt="image" style="zoom:50%;" />
@@ -53,6 +57,8 @@ Search
 <img src="Screenshot/D.T.M.png" alt="image" style="zoom:50%;" />
 
 <img src="Screenshot/SecureBoot.png" alt="image" style="zoom:50%;" />
+
+<img src="Screenshot/resize-bar.jpg" alt="image" style="zoom:50%;" />
 
 ### ScreenShot
 

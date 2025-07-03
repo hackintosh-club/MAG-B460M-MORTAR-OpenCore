@@ -7,7 +7,7 @@
 
 ### OpenCore
 
-[OpenCore 1.0.2](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 1.0.4](https://github.com/acidanthera/OpenCorePkg)
 
 
 ### macOS
@@ -49,6 +49,9 @@ Search
   |-- D.T.M
     |-- D.T.M: Enabled
 
+3.使用搜索功能查找并启用 RE
+  |-- RE
+    |-- Re-Size BAR Support: Disabled 
 ```
 
 <img src="Screenshot/Search.png" alt="image" style="zoom:50%;" />
@@ -56,6 +59,8 @@ Search
 <img src="Screenshot/D.T.M.png" alt="image" style="zoom:50%;" />
 
 <img src="Screenshot/SecureBoot.png" alt="image" style="zoom:50%;" />
+
+<img src="Screenshot/resize-bar.jpg" alt="image" style="zoom:50%;" />
 
 ### 截图展示
 
